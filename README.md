@@ -12,7 +12,7 @@ __Compile VST:__
 - Default: instrument (SyphonVSTi.vst) into standard VST folder <br>
 `./build_vst.sh`
 
-- Explicit instrument <br>
+- Instrument version <br>
 `./build_vst.sh --instrument`
 
 - Effect version <br>
