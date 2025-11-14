@@ -1,5 +1,5 @@
 # SyphonVST
-Realtime Video Rendering in your very DAW via [Syphon](https://syphon.info/) (: <br>
+Realtime Hardware accelerated surface sharing in your very DAW via [Syphon](https://syphon.info/) (: <br>
 _Right click the vst window to change the Syphon server. <br>_
 <ins>Currently only compiled on and tested on Mojave 10.14.6 but might work on older MacOS?</ins>
 
